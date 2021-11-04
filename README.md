@@ -1,3 +1,5 @@
 Python should be installed before below step
-To install databricks cli
+1. To install ```databricks cli```
+```bash
 pip install databricks-cli
+```
