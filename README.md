@@ -5,5 +5,6 @@ pip install databricks-cli
 ```
 2. check databricks version by command 
 ```bash
-databricks --version```
-4. Generate token by login into databricks
+databricks --version
+```
+3. Generate token by login into databricks
