@@ -1,7 +1,7 @@
 #databricks setup
 
 ##Summary
--[Setup](#Setup)
+- [Setup](#Setup)
 
 ***
 ###Setup
