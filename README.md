@@ -22,5 +22,10 @@ databricks --version
 databricks configure --token
 ```
 6. This will ask you the url and once url is entered it will ask about the token which you had generated through databricks
+7. Once token is passed. We can run the below command 
+```bash
+databricks workspace ls /Users/
+```
+
 
     
