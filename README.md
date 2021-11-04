@@ -4,7 +4,7 @@
 - [Setup](#Setup)
 
 ***
-###Setup
+### Setup
 Python should be installed before below step
 1. To install ```databricks cli```
 ```bash
