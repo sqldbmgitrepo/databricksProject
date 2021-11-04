@@ -14,4 +14,13 @@ pip install databricks-cli
 ```bash
 databricks --version
 ```
-3. Generate token by login into databricks
+3. Generate token by login into databricks 
+    a) Go to the user settings of databricks to generate token
+4. Copy the databricks instance location by going to the azure resource and just copy the url till .net
+5. Fire command
+```bash
+databricks configure --token
+```
+6. This will ask you the url and once url is entered it will ask about the token which you had generated through databricks
+
+    
